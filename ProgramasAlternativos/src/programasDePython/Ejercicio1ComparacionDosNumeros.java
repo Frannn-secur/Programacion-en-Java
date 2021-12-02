@@ -1,6 +1,3 @@
-/**
- * 
- */
 package programasDePython;
 
 import java.util.Scanner;
@@ -11,9 +8,12 @@ import java.util.Scanner;
  * Programa que pida dos números e indique si el primero es mayor que el segundo o no.
  * 
  * 1º Pedimos ambos números 
- * 2º Comprobamos si son mayores o no
+ * 2º Si es mayor el numero 1 que el 2 sacamos por pantalla que el numero 1 es mayor
+ * 3º Si no ocurre eso el numero 2 es mayor y lo sacamos por pantalla
+ * 
  */
-public class Ejercicio1 {
+
+public class Ejercicio1ComparacionDosNumeros {
 
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);

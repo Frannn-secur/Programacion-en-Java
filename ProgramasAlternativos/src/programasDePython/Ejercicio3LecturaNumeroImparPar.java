@@ -1,6 +1,3 @@
-/**
- * 
- */
 package programasDePython;
 
 import java.util.Scanner;
@@ -15,7 +12,8 @@ import java.util.Scanner;
  * 3º Sacamos por pantalla si el número insertado es impar o par
  * 
  */
-public class Ejercicio3 {
+
+public class Ejercicio3LecturaNumeroImparPar {
 
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);

@@ -12,7 +12,8 @@ import java.util.Scanner;
  * 3º Lo sacamos por pantalla
  * 
  */
-public class Ejercicio6 {
+
+public class Ejercicio6BaseImponible {
 
 	public static void main(String[] args) {
 		// Hacemos un Scanner para pedrime al usuario la base imponible

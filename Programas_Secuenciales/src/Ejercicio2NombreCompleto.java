@@ -1,6 +1,3 @@
-/**
- * 
- */
 
 /**
  * @author Francisco José Gómez Ruiz
@@ -13,7 +10,8 @@
  * 1º Creamos la variable nombre
  * 2º Lo sacamos por pantalla con un println
  */
-public class Ejercicio2 {
+
+public class Ejercicio2NombreCompleto {
 
 	public static void main(String[] args) {
 		// Creamos la variable nombre

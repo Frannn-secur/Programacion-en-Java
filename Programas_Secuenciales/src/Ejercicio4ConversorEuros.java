@@ -11,7 +11,8 @@ import java.util.Scanner;
  * 3º Lo convertimos a pesetas multiplicando por 166.386 que es lo que valdría un euro y lo sacamos por pantalla
  * 
  */
-public class Ejercicio4 {
+
+public class Ejercicio4ConversorEuros {
 
 	public static void main(String[] args) {
 		// Hacemos un scanner para pedirle al usuario los euros que quiere convertir a pesetas

@@ -8,7 +8,8 @@
  * 1º Creamos ambas variables y le añadimos su respectiva información
  * 2º Y lo ponemos en un mismo print con el operador +.
  */
-public class Ejercicio7 {
+
+public class Ejercicio7CadenaCaracterPorTeclado {
 
 	public static void main(String[] args) {
 		
