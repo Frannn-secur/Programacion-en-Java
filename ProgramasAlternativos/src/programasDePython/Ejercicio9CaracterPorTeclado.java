@@ -16,6 +16,7 @@ import java.util.Scanner;
  *4º Si dentro de los NUMEROS es igual al valor de la cadena lo sacamos por pantalla
  *5º Y si no será una letra y los sacamos por pantalla 
  */
+
 public class Ejercicio9CaracterPorTeclado {
 	
 	//Creamos 3 constantes en las que almacenaremos tanto los signos de puntuación, los números y todas las letras
